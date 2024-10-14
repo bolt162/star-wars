@@ -6,10 +6,10 @@ To bring an order to the galaxy, the Republicans have risen up against the Emper
 
 Make sure you have the latest version of Rust with cargo already setup. Then following commands to clone the repository:
 
-git clone https://github.com/bolt162/star-wars
+git clone https://github.com/bolt162/star-wars<br/>
 cd star-wars
 
 To run the game:
 
-cargo build
+cargo build<br/> 
 cargo run
